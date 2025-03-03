@@ -3,7 +3,7 @@
 A **responsive image gallery** with a **sidebar** and **category filters** built using HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
-🔗 **Live Demo:** [https://mahmoudeissam.github.io/Gallery-Grid/]([#](https://mahmoudeissam.github.io/Simple-Gallary/))
+🔗 **Live Demo:** [https://mahmoudeissam.github.io/Gallery-Grid/]([https://mahmoudeissam.github.io/Simple-Gallary/])
 
 ## 🌟 Features
 - 🖼️ **Responsive Grid Layout** – A well-structured, adaptable image grid.
